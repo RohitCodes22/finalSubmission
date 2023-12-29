@@ -1,2 +1,2 @@
 # finalSubmission
- Contains Jupyter Notebook
+My IBM courses' final projects repo
